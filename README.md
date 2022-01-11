@@ -23,5 +23,5 @@ python demo/inpainting_demo.py configs/inpainting/deepfillv2/custom.py work_dirs
 https://colab.research.google.com/drive/1XqXebX-RwvoKko5hW7q22ZBe4DpsYC7e?usp=sharing
 
 ## Referemce
-https://github.com/open-mmlab/mmediting
+https://github.com/open-mmlab/mmediting  
 https://github.com/styler00dollar/Colab-mmediting/tree/master/mmedit/models
